@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hola 👋 Soy Gabriel Sanchez ✔
 
-<!--
-**gszcode/gszcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un Desarrollador web FullStack. 👽 Me considero una persona creativa, curiosa y entusiasta. Disfruto de los retos y me gusta el autoaprendizaje. Considero que es la principal herramienta para un programador.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre mí:
+
+- 📣 Actualmente estoy en busca de mi primer empleo.
+
+- 💻 En este momento estoy reforzando mis conocimientos en las tecnologías que conozco.
+
+- 🖌 Me gusta más el Front aunque me agrada trabajar en el Back
+
+- 📥 Mi contacto gszcode@gmail.com
+
+- 👓 Mi web [Personal](https://gszcode.github.io/ "Portafolio")
+
+- 🌐 Mi Perfil de [Linkedin](https://www.linkedin.com/in/gabriel-sanchez-0591a723a/ "Gabriel Sanchez - Linkedin")
+
+---
