@@ -6,9 +6,7 @@ Soy Desarrollador web FullStack. 👽 Me considero una persona creativa, curiosa
 
 ## Sobre mí:
 
-- 📣 Actualmente estoy en busca de mi primer empleo.
-
-- 💻 En este momento estoy reforzando mis conocimientos en las tecnologías que conozco.
+- 💻 Estoy en constante aprendizaje y puliendo mis conocimientos.
 
 - 🖌 Tengo conocimientos Frontend y en Backend, más focalizado en en Front. 
 
