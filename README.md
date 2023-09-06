@@ -8,7 +8,7 @@ Soy Desarrollador web FullStack. 👽 Soy una persona sociable, compañera y cur
 
 - 💻 Estoy en constante aprendizaje y puliendo mis conocimientos.
 
-- 🖌 Tengo conocimientos Frontend y en Backend, más focalizado en en Front. 
+- 🖌 Tengo experiencia en Frontend y conocimientos Backend. 
 
 - 📥 Mi contacto gszcode@gmail.com
 
