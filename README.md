@@ -12,7 +12,7 @@ Soy Desarrollador web FullStack. 👽 Soy una persona sociable, compañera y cur
 
 - 📥 Mi contacto gszcode@gmail.com
 
-- 👓 Mi web [Personal](https://gszcode.github.io/portafolio "Portafolio")
+- 👓 Mi web [Personal](https://gabrielsanchez.vercel.app/ "Portafolio")
 
 - 🌐 Mi Perfil de [Linkedin](https://www.linkedin.com/in/gabriel-sanchez-0591a723a/ "Gabriel Sanchez - Linkedin")
 
