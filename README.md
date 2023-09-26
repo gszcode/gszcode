@@ -1,6 +1,6 @@
 # Hola 👋 Soy Gabriel Sanchez ✔
 
-Soy Desarrollador web FullStack. 👽 Soy una persona sociable, compañera y curiosa. Disfruto de los retos y me gusta estar constantemente en aprendizaje.
+Soy Desarrollador web. 👽 Soy una persona sociable, compañera y curiosa. Disfruto de los retos y me gusta estar constantemente en aprendizaje.
 
 ---
 
