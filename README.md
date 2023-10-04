@@ -4,7 +4,7 @@ Soy Desarrollador web. 👽 Soy una persona sociable, compañera y curiosa. Disf
 
 ---
 
-## Sobre mí:
+## Sobre mí
 
 - 💻 Estoy en constante aprendizaje y puliendo mis conocimientos.
 
