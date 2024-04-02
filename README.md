@@ -1,11 +1,5 @@
 # Hola 👋 Soy Gabriel Sanchez ✔
 
-Soy Desarrollador web. 👽 Soy una persona sociable, compañera y curiosa. Disfruto de los retos y me gusta estar constantemente en aprendizaje.
-
----
-
-## Sobre mí
-
 - 💻 Estoy en constante aprendizaje y puliendo mis conocimientos.
 
 - 🖌 Tengo experiencia en Frontend y conocimientos Backend. 
