@@ -4,7 +4,7 @@
 
 - 🖌 Tengo experiencia en Frontend y conocimientos Backend. 
 
-- 📥 Mi contacto gszcode@gmail.com
+- 📥 Mi contacto sgabriel.dev@gmail.com
 
 - 👓 Web [Personal](https://gabrielsanchez.vercel.app/ "Portafolio")
 
